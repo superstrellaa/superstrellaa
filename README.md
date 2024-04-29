@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/superstrellaa_" target="blank"><img src="https://img.shields.io/twitter/follow/superstrellaa_?logo=twitter&style=for-the-badge" alt="superstrellaa_" /></a> </p>
 
-- 🔭 I’m currently working on [AquaCores](https://aquacores.cloud)
+- 🔭 I’m currently working on [DDoubleCrew](https://doublecrew.tech)
 
 - 🌱 I’m currently learning **Go and PHP**
 
