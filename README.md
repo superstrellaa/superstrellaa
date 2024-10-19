@@ -21,6 +21,6 @@ Soy un **desarrollador de software** apasionado por la programación, la creaci�
 
 ## ⚡ Curiosidades sobre mí
 
-**- Empecé la programación a los 9 años usando Unity Engine**
+- **Empecé la programación a los 9 años usando Unity Engine**
 - Me encanta la **inteligencia artificial** y siempre estoy explorando nuevos avances en este campo.
 - En mi tiempo libre, disfruto de **contribuir a proyectos de código abierto** y participar en **hackatones**.
