@@ -11,7 +11,10 @@ Soy un **desarrollador de software** apasionado por la programación, la creaci�
 
 ## 💻 Proyectos Destacados
 
-### Ninguno por el momento.
+### FleXi Client
+
+- Un Cliente de Minecraft completamente configurable desde la configuración del servidor.
+- [GitHub](https://github.com/superstrellaa/FleXi-Client)
 
 ## 📫 Cómo contactarme
 
