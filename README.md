@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Superstrellaa
+# 👋 Hey there! I'm superstrellaa
 
 I'm a passionate full-stack and game developer who enjoys building backend services, multiplayer systems, Minecraft mods, and custom desktop tools. I love combining technology and creativity to make interactive experiences.
 
