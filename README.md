@@ -52,4 +52,33 @@ I'm a passionate full-stack and game developer who enjoys building backend servi
 
 ---
 
+## 📜 Some Stuff
+
+![Profile Views](https://komarev.com/ghpvc/?username=superstrellaa&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/superstrellaa?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/superstrellaa?affiliations=OWNER&style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/superstrellaa/ZypherLink?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/superstrellaa/ZypherLink?style=for-the-badge)
+[![committers.top badge](https://user-badge.committers.top/spain/superstrellaa.svg)](https://user-badge.committers.top/spain/superstrellaa)
+
+![Unity Developer](https://img.shields.io/badge/Unity-Developer-black?style=for-the-badge&logo=unity)
+![Minecraft Modder](https://img.shields.io/badge/Minecraft-Fabric%20Modder-62b47a?style=for-the-badge&logo=minecraft)
+![Backend Systems](https://img.shields.io/badge/Backend-Architect-339933?style=for-the-badge&logo=node.js)
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/superstrellaa/ZypherLink?style=for-the-badge)
+![GitHub Open Issues](https://img.shields.io/github/issues/superstrellaa/ZypherLink?style=for-the-badge)
+![GitHub Closed Issues](https://img.shields.io/github/issues-closed/superstrellaa/ZypherLink?style=for-the-badge)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/superstrellaa/ZypherLink?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/superstrellaa/ZypherLink?style=for-the-badge)
+
+![Commit Frequency](https://img.shields.io/github/commit-activity/m/superstrellaa/ZypherLink?style=for-the-badge)
+![Contributions in the last year](https://img.shields.io/github/contributors-anon/superstrellaa/ZypherLink?style=for-the-badge)
+![GitHub Watchers](https://img.shields.io/github/watchers/superstrellaa/ZypherLink?style=for-the-badge)
+
+![Awesome Developer](https://img.shields.io/badge/Awesome-Developer-blue?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge)
+![Open Source Lover](https://img.shields.io/badge/Open-Source%20Lover-green?style=for-the-badge)
+
+---
+
 > 🧩 Always learning, always building. Let's collaborate and make something awesome.
