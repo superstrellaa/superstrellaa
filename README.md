@@ -36,6 +36,8 @@ I'm a passionate full-stack and game developer who enjoys building backend servi
   - https://github.com/superstrellaa/KeybindingLocker
   - https://modrinth.com/mod/keybindinglocker
   - https://www.curseforge.com/minecraft/mc-mods/keybindinglocker
+- 📏 **TabCommands** – Create custom commands with custom arguments as a minecraft plugin (SourceCode TODO)
+  - https://www.spigotmc.org/resources/tabcommands.121004/
 
 ---
 
