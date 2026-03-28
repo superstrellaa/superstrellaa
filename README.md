@@ -38,6 +38,8 @@ I'm a passionate full-stack and game developer who enjoys building backend servi
   - https://www.curseforge.com/minecraft/mc-mods/keybindinglocker
 - 📏 **TabCommands** – Create custom commands with custom arguments as a minecraft plugin (SourceCode TODO)
   - https://www.spigotmc.org/resources/tabcommands.121004/
+- 🧩 **Minestom-Test** – Public template if you wan't a base or template to create your new minetstom server
+  - https://github.com/superstrellaa/Minestom-Test
 
 ---
 
