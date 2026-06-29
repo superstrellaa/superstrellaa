@@ -19,6 +19,8 @@ I'm a passionate full-stack and game developer who enjoys building backend servi
 
 ## 🚀 Featured Projects
 
+- 🔁 **ZIRON Studio** – Lightweight 3D scene prototyping tool built with Tauri, Three.js and Vite.
+  - https://github.com/superstrellaa/ZIRON
 - 🎮 **ZypherLink** – Multiplayer framework for Unity. Powered by ZeroPing (client) and SyncServer (backend)
   - https://github.com/superstrellaa/ZypherLink
 - 🎮 **Overbyte** - My own Unity Multiplayer project forked from **ZypherLink** but unfinished
@@ -32,6 +34,9 @@ I'm a passionate full-stack and game developer who enjoys building backend servi
   - https://github.com/superstrellaa/CinematicTools
   - https://modrinth.com/mod/cinematictools
   - https://www.curseforge.com/minecraft/mc-mods/cinematictools
+- ℹ️ **BlackBox** – A mod for Fabric 1.21.1 that sends "telemetry" data about client information to a Discord webhook. Fully configurable.
+  - https://github.com/superstrellaa/BlackBox
+  - https://modrinth.com/mod/blackbox
 - ⌨️ **KeybindingLocker** – Lock specific keybinding actions remotely from the server. Perfect for events and cutscenes
   - https://github.com/superstrellaa/KeybindingLocker
   - https://modrinth.com/mod/keybindinglocker
@@ -45,7 +50,7 @@ I'm a passionate full-stack and game developer who enjoys building backend servi
 
 ## 🌐 My Website
 
-🔗 [superstrellaa.is-a.dev](https://superstrellaa.is-a.dev) (Outdated)
+🔗 [superstrellaa.is-a.dev](https://superstrellaa.is-a.dev) (Too Outdated)
 
 ---
 
